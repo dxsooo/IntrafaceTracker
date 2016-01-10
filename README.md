@@ -8,7 +8,7 @@ You should get the dependency(header files, models, libs etc.) from [IntraFace](
 
 ## Usage  
 
-For *windows users*:
+For **windows users**:
 
 * Download this project
 * Put IntraFace header files into `win32\include\intraface` 
@@ -19,6 +19,12 @@ For *windows users*:
 * Put `IntraFaceDLL.dll` into `win32\Release` and `IntraFaceDLLd.dll` into `win32\Debug`
 * Run
 
-For *Linux(x86_64) users*:
+For **Linux(x86_64) users**:
 
 * Download this project
+* Put IntraFace header files into `linux_x64/include/intraface` 
+* Put `libintraface.a` into `linux_x64/lib/intraface`
+* Put the models into `linux_64/models`
+* Open terminal in `linux_x64`
+* make
+* Run demo in `./bin`
