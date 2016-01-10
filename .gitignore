@@ -43,8 +43,8 @@ local.properties
 
 # Build results
 
-#[Dd]ebug/
-#[Rr]elease/
+[Dd]ebug/
+[Rr]elease/
 x64/
 build/
 [Bb]in/
@@ -229,5 +229,3 @@ IntraFaceDLL.dll
 IntraFaceDLLd.dll
 DetectionModel-v1.5.bin
 TrackingModel-v1.10.bin
-IntrafaceTracker/Debug/
-IntrafaceTracker/Release/
