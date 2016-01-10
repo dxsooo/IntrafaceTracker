@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IntrsfaceTracker.cpp">
+    <ClCompile Include="IntrafaceTracker.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

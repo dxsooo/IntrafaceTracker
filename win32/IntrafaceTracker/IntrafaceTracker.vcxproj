@@ -10,6 +10,9 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IntrafaceTracker.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{30B76191-DC6D-4443-A1B5-97E40074719B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -79,9 +82,6 @@
       <AdditionalDependencies>opencv_core246.lib;opencv_highgui246.lib;opencv_imgproc246.lib;opencv_objdetect246.lib;IntraFaceDLL.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="IntrsfaceTracker.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
