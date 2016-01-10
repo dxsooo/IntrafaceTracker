@@ -1,7 +1,7 @@
 # Intraface Tracker
 
 ## Overview
-Face tracker demo based on [IntraFace](http://humansensing.cs.cmu.edu/intraface/index.php). The program would track the biggest face in the camera view and the face landmarks would be drawn on the face.
+Face tracker demo based on [IntraFace](http://humansensing.cs.cmu.edu/intraface/index.php)(version 1.2). The program would track the biggest face in the camera view and the face landmarks would be drawn on the face.
 
 ## Announcement
 You should get the dependency(header files, models, libs etc.) from [IntraFace](http://humansensing.cs.cmu.edu/intraface/index.php) that this project doesn't provide.
