@@ -229,3 +229,4 @@ IntraFaceDLL.dll
 IntraFaceDLLd.dll
 DetectionModel-v1.5.bin
 TrackingModel-v1.10.bin
+libintraface.a
